@@ -1,0 +1,5 @@
+
+fooBar.i 6
+notFoo.s SGVsbG8gV29ybGQh
+thisFloat.i 6
+thatBool.b true
